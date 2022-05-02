@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProductMichelle
-- 👀 I’m interested in Product Management, data, solving problems and creating the best experience for customers.
+- 👀 I am a Product Managemer who loves working with data, MySQL, solving problems and creating the best experience for customers.
 - 💞️ Thank you for attending my Ted Talk
 
 <!---

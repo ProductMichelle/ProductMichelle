@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProductMichelle
 - 👀 I'm a Product Manager who loves working with data, MySQL, solving problems and creating the best experience for customers.
-- 💻 I also enjoy coding with HTML & CSS. 
+- 💻 I also enjoy coding with HTML, CSS & Javascript. 
 - 💞️ Thank you for attending my Ted Talk.
 
 
